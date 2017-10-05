@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+.headerBox{
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.dateBox{
+    /*background-color: blue;*/
+    line-height: 2;
+}
+
+.titleDateBox{
+    background-color: white;
+}
+
+.postBox{
+    background-color: white;
+}
+
+
+/*.titleBox{*/
+/*    background-color: red;*/
+
+/*}*/
+
+
+
+/*.commentBox{*/
+/*    background-color: white;*/
+    
+}
+
+/*.imgBox{*/
+/*    background-color: purple;*/
+/*}*/
